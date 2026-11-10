@@ -1,0 +1,13 @@
+# Python bytecode caches
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# opsh command history
+.opsh_history
+
+# Scratch files created while testing redirections
+f.txt
+n.txt
